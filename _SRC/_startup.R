@@ -25,3 +25,13 @@ for (src in srcs){
   if (basename(src) == '_startup.R'){next}
   source(src)
 }
+
+show_package_version<-function(packages){
+  out<-c(paste0('R Version: ',R.version$major,'.',R.version$minor))
+  for (pkg in packages){
+    x<-paste0(pkg,': ',gsub(' ','.',packageVersion(pkg),fixed=T))
+    out<-c(out,x)
+  }
+  print(paste0(out,collapse='\n'))
+  
+}
