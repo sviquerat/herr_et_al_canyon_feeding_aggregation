@@ -1,0 +1,3 @@
+DATA/EXTERNAL/currents_2023.nc filter=lfs diff=lfs merge=lfs -text
+DATA/EXTERNAL/IBCSO/*.tif filter=lfs diff=lfs merge=lfs -text
+DATA/MSM115_Oceanography/MSM115_oce_data.csv filter=lfs diff=lfs merge=lfs -text

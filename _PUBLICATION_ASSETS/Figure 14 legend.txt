@@ -1,0 +1,8 @@
+"key"	"variable"
+"A"	"oxygen_ml_l_200m_mean"
+"B"	"oxygen_saturation_perc_200m_mean"
+"C"	"fluorescence_mg_m3_200m_mean"
+"D"	"salinity_50m_mean"
+"E"	"temp1_C_5m_mean"
+"F"	"temp1_C_50m_mean"
+"G"	"temp1_C_200m_mean"
