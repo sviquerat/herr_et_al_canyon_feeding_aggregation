@@ -91,21 +91,37 @@
 ```
 #### All code was run using the following versions:
 R Version: 4.3.1
+
 sqldf: 0.4.11
+
 terra: 1.8.29
+
 sf: 1.0.20
+
 ggplot2: 3.5.2
+
 dplyr: 1.1.4
+
 oce: 1.8.3
+
 signal: 1.8.1
+
 vegan: 2.6.10
+
 tidyterra: 0.7.2
+
 factoextra: 1.0.7
+
 e1071: 1.7.16
+
 mgcv: 1.9.1
+
 NbClust: 3.0.1
+
 ggh4x: 0.3.1
+
 mclust: 6.1.1
+
 RColorBrewer: 1.1.3
 
 #### Contact:
